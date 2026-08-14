@@ -1,0 +1,4 @@
+# 原始素材不入库：
+# image/ 里的 Liteasy 原图包含未打码的账号 ID，
+# 且所有图片已压缩打码后以 Base64 内嵌进 index.html，仓库不需要它们。
+image/
