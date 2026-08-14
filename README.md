@@ -1,6 +1,6 @@
 # Kasey · Personal Archive
 
-Kasey 的个人主页 —— 一个单文件的个人档案、研究展示与持续探索记录。
+Kasey 的个人主页。
 
 **在线访问：https://kaseyjin.github.io**
 
